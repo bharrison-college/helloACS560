@@ -1,0 +1,2 @@
+gcc HelloExample.c -o HelloExample.exe
+./HelloExample.exe

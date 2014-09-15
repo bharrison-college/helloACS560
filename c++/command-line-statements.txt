@@ -1,0 +1,2 @@
+g++ HelloExample.cc -o HelloExample.exe
+./HelloExample.exe

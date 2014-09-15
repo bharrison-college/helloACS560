@@ -1,0 +1,4 @@
+E:\acs560hw1-solution-blake-harrison\question1-solutions\c#\HelloExample\HelloExample\bin\Debug\HelloExample.exe
+E:\acs560hw1-solution-blake-harrison\question1-solutions\c#\HelloExample\HelloExample\bin\Debug\HelloExample.pdb
+E:\acs560hw1-solution-blake-harrison\question1-solutions\c#\HelloExample\HelloExample\obj\x86\Debug\HelloExample.exe
+E:\acs560hw1-solution-blake-harrison\question1-solutions\c#\HelloExample\HelloExample\obj\x86\Debug\HelloExample.pdb
